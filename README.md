@@ -1,2 +1,7 @@
 # Sorting-Visualizer
-This repository contains sorting algorithm visualizer which visually sorts bars of random heights. 
+• Created a visualization tool with the help of Pygame library, for visualizing common sorting algorithms.
+
+* Bubble Sort
+* Quicksort
+
+• Technologies Used : Python Pygame OOPS
