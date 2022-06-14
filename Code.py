@@ -46,10 +46,10 @@ for i in range(num_bars):
 
 #pygame.display.update()    
 while True:
-     pygame.display.update()
+    pygame.display.update()
 
     for event in pygame.event.get():
-        if event.type == pygame.QUIT:
+       if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
-        bubblesort(bars)    
+       bubblesort(bars)    
